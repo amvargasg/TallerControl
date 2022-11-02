@@ -1,0 +1,8 @@
+prefix=/home/wampa/Desktop/Archivos_Angela/Taller/catkin_ws_taller/install
+
+Name: limpieza
+Description: Description of limpieza
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

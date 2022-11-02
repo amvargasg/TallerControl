@@ -1,0 +1,2 @@
+limpieza
+-DCATKIN_DEVEL_PREFIX=/home/wampa/Desktop/Archivos_Angela/Taller/catkin_ws_taller/devel -DCMAKE_INSTALL_PREFIX=/home/wampa/Desktop/Archivos_Angela/Taller/catkin_ws_taller/install -G Unix Makefiles
